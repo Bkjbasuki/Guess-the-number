@@ -42,3 +42,4 @@ public class GuessNumberGame {
     System.out.println("Please guess the number: ");
     return sn.nextInt();
   }
+}
