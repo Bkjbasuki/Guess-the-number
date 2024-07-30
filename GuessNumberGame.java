@@ -4,7 +4,7 @@ import java.util.concurrent.ThreadLocalRandom;
 public class GuessNumberGame {
 
   private static final int MIN_NUMBER = 1;
-  private static final int MAX_NUMBER = 1000;
+  private static final int MAX_NUMBER = 100;
 
   public static void main(String[] args) {
     GuessNumberGame game = new GuessNumberGame();
